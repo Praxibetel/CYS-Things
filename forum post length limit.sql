@@ -5,3 +5,6 @@ BEGIN
   RAISERROR ('Post body exceeds 100kB limit.', 16, 1)
   RETURN
 END
+
+
+/* pika chu */
